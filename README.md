@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manasa Pantra 👋</h1>
-<h3 align="center">AI Engineer • NLP & RAG Specialist • ML Researcher</h3>
+<h3 align="center">AI Engineer</h3>
 
 ---
 
