@@ -92,7 +92,6 @@ NLP • Reinforcement Learning • Knowledge Graphs
 ## 📫 Connect With Me
 - **Email:** manasapantra9@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/manasa-pantra/  
-- **GitHub:** https://github.com/ManasaPantra  
 - **Credly:** https://www.credly.com/users/pantra-manasa.ce6b3445  
 
 ---
